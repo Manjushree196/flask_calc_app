@@ -1,0 +1,58 @@
+body{
+    background-image: url('/static/images/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: rgb(54, 217, 139);
+}
+.body-container{
+    text-align: center;
+}
+.form-container{
+    border-style: solid;
+    border-width: 3px;
+    border-color: antiquewhite;
+    width: 40vw;
+    margin-top: 20vh;
+    margin-left: 50vh;
+    border-radius: 10px;
+    background-color: rgb(57, 51, 58);
+    opacity: 0.8;
+}
+.num1{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: "Arial";
+    font-weight: bold;
+}
+.num2{
+    color: aliceblue;
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+}
+.operation{
+    color: rgba(120, 245, 10, 0.582);
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.output{
+    color: rgb(232, 230, 230);
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.custom-select{
+    background-color: rgb(214, 222, 230);
+    height: 30px;
+    font-family: "Arial";
+    border-radius: 7px;
+}
+.opt{
+    color: rgb(6, 17, 26);
+    font-weight: bold;
+}
